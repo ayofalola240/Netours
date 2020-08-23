@@ -1,0 +1,22 @@
+{
+  "name": "netours",
+  "version": "1.0.0",
+  "description": "netours webpage design",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/style.scss css/costume.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayofalola240/Netours.git"
+  },
+  "author": "Falola Ibrahim Ayobami",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayofalola240/Netours/issues"
+  },
+  "homepage": "https://github.com/ayofalola240/Netours#readme",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
