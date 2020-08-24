@@ -4,7 +4,7 @@
   "description": "netours webpage design",
   "main": "index.js",
   "scripts": {
-    "compile:sass": "node-sass sass/style.scss css/costume.css -w"
+    "compile:sass": "node-sass sass/main.scss css/costume.css -w"
   },
   "repository": {
     "type": "git",
